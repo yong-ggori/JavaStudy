@@ -3,3 +3,4 @@ linguist-documentation=false
 * linguist-vendored
 *.java linguist-vendored=false
 *.html linguist-vendored=false
+*.js linguist-vendored=false
