@@ -1,2 +1,2 @@
-
-eclipse workspace/.metadata/.plugins/**/** linguist-vendored
+linguist-documentation=false
+eclipse workspace/.metadata/** linguist-vendored
